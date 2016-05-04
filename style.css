@@ -1,0 +1,110 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+
+    
+    }
+
+
+
+
+.conteneur {
+    display:flex;
+    width:100%;
+    max-width:960px;
+    margin: 10px;10px;10px;10px;
+    padding:10px; 10px;10px;10px;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+     
+}
+     
+
+header {
+    
+    background:url()
+    width:100%;
+    height:200px;
+    
+    
+     }
+
+    .image {
+        padding-right:100px;
+        width: 300px;
+        height:200px;
+        
+    }
+        
+        header .image img{
+            width:300px;
+            height:180px;
+            }
+    
+    .nom {
+        
+        width:500px
+        height:120px;
+        
+    }    
+
+main{
+    background:url()
+    width:100%;
+    height:350px;
+
+    
+    }    
+
+    .Parcour {
+    
+    width:98%;
+    height:300px;
+    margin:10px;
+    
+    }
+    
+   .Ambitions{
+    width:98%;
+    height:300px;
+    margin:10px;
+     
+    }    
+
+   .Experience{
+    width:98%;
+    height:300px;
+    margin:10px;
+    
+    }      
+    
+ h3{
+     background-color:gray;
+     border:1px;
+     box-shadow:6px,6px,6px,gray;
+     text-align:center;
+ }
+     
+     
+.footer{
+     background:url();
+
+}	
+	
+
+    iframe {
+       vertical-align: top;
+       box-sizing: border-box;
+       width:50%;
+    }
+    
+    footer p{
+	    margin-left:30px;
+	    text-align:center;
+	    width:30%;
+	    display: inline-block;
+	    box-sizing: border-box;
+	    
+    
+}
